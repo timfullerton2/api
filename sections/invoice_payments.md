@@ -112,7 +112,7 @@ Example of request body if you want to add a not for the payment:
 
 ```json
 {
-	"note": "A note for the payment"
+	"notes": "A note for the payment"
 }
 ```
 
